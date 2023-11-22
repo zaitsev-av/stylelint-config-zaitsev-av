@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "stylelint": "^15.11.0",
+    "stylelint-config-recommended": "^13.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
     "stylelint-config-clean-order": "^5.2.0",
     "stylelint-config-standard-scss": "^11.1.0",
     "stylelint-config-standard": "^34.0",
