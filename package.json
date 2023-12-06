@@ -1,16 +1,15 @@
 {
   "name": "stylelint-config-zaitsev-av",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
     "prettier": "^3.0.3",
-    "stylelint": "^15.11.0"
-  },
-  "dependencies": {
-    "postcss": "^8.4.21",
     "stylelint": "^15.11.0",
+    "postcss": "^8.4.21",
     "postcss-syntax": "^0.36.2",
+    "stylelint-prettier": "^4.0.2",
+    "@zaitsev_av/prettier-config": "^0.1.1",
     "@stylelint/postcss-css-in-js": "^0.38.0",
     "stylelint-config-styled-components": "^0.1.1"
   },
