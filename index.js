@@ -3,7 +3,6 @@ module.exports = {
   plugins: ['stylelint-prettier'],
   customSyntax: '@stylelint/postcss-css-in-js',
   rules: {
-    'prettier/prettier': true,
     'max-line-length': [
       100,
       {
